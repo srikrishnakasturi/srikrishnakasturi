@@ -1,5 +1,7 @@
 ![alt text](https://blockwiselearning.com/assets/img/github.PNG)
 
+<h1 align="center">Hi 👋, I'm Sri Krishna Kasturi</h1>
+<h3 align="center">Full-Stack blockchain developer & founder of @blockwiselearning.</h3>
 
 - 👋 Hi, I’m @srikrishnakasturi
 - 👀 I’m interested in ...
