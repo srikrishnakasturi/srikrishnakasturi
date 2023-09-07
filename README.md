@@ -1,3 +1,6 @@
+![alt text](https://blockwiselearning.com/assets/img/github.PNG)
+
+
 - 👋 Hi, I’m @srikrishnakasturi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
