@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Sri Krishna Kasturi</h1>
 <h3 align="center">Full-Stack blockchain developer & founder of @blockwiselearning.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://blockwiselearning.com/assets/img/githubgeef.gif">
+
 # 💫 About Me:
 🔭 I’m currently working on building web3 community @blockwiselearning<br><br>🌱 I’m currently working as a Blockchain developer, creating web2 and web3 courses<br><br>🏗 Check out all my projects https://github.com/srikrishnakasturi <br><br>
 
