@@ -4,13 +4,7 @@
 <h3 align="center">Full-Stack blockchain developer & founder of @blockwiselearning.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on @theblockchaincoders<br><br>🌱 I’m currently working as a Blockchain developer, creating web2 and web3 courses<br><br>🏗 Check out all my projects @daulathussain projects<br><br>💫 My recent course AI Power Movie App<br><br>👨‍💻 All of my projects are available at https://www.theblockchaincoders.com/SourceCode<br><br>📝 "BOOK" your 1-1 Consultancy https://www.theblockchaincoders.com/consultancy<br><br>💬 How I Learn Become Developer
-
-- 👋 Hi, I’m @srikrishnakasturi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔭 I’m currently working on building web3 community @blockwiselearning<br><br>🌱 I’m currently working as a Blockchain developer, creating web2 and web3 courses<br><br>🏗 Check out all my projects https://github.com/srikrishnakasturi <br><br>
 
 
 ## 🌐 Socials:
